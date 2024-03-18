@@ -44,6 +44,17 @@ h1 {
 
   }
 
+  h2{
+    background-color: #ffffff;
+    color: #000000;
+    font-size: medium;
+    padding: 10px;
+    margin-left: 0;
+    display: flex;
+   text-align: left;
+
+  }
+
   h3{
     background-color: #ffffff;
     color: #000000;
